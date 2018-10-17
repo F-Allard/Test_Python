@@ -4,10 +4,7 @@ j = 1
 while j < len(liste):
 
     i = 0
-    while i < j:
-        if liste[j] < liste[i]:
-            liste.insert(i, liste[j])
-
+    while i < j:6516
 ppp
         else:
             i = i + 1
