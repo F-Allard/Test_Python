@@ -7,11 +7,9 @@ while j < len(liste):
         if liste[j] < liste[i]:
             liste.insert(i, liste[j])
 
-
-
         else:
             i = i + 1
 
-    j = j + 12
+    j = j + 1
 
 print(liste)
