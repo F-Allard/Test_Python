@@ -8,6 +8,7 @@ while j < len(liste):
         if liste[j] < liste[i]:
             liste.insert(i, liste[j])
 
+ppp
         else:
             i = i + 1
 
